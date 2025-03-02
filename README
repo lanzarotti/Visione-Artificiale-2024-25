@@ -37,8 +37,10 @@ In questo corso verranno presentati i principi alla base di questa disciplina al
   - Convolutional Neural Networks
   - Recurrent Neural Networks
   - Transformers
+  - Variational Auto-Encoders
   - Generative Adversarial Networks 
   - Graph Neural Networks
+  - Self-supervised learning
   - Vision Language Models
   
   ## Materiale
